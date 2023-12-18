@@ -1,0 +1,9 @@
+body{
+    height: 1000px;
+    width: 1000px;
+    margin: 20px;
+    padding: 20px;
+}
+.pricingPanel{
+    border: 1px solid ;
+}
